@@ -1,0 +1,742 @@
+fileFormatVersion: 2
+guid: fcb55d9e5e42848aaa8c81ad69411003
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: basarabilirsin
+    21300002: basardin
+    21300004: cok-iyi
+    21300006: cok-yakin
+    21300008: bravo
+    21300010: cok-yaklastin
+    21300012: zafere-kosuyorsun
+    21300014: zafere-gidiyorsun
+    21300016: mukemmel
+    21300018: mukkemmel
+    21300020: bir-daha-dene
+    21300022: gayet-iyi
+    21300024: sakin-vazgecme
+    21300026: ha-gayret
+    21300028: tam-isabet
+    21300030: muhtesem
+    21300032: iyi-gidiyorsun
+    21300034: alim-az-kaldi
+    21300036: hay-aksi
+    21300038: aferin
+    21300040: congrat-texts_20
+    21300042: congrat-texts_21
+    21300044: congrat-texts_22
+    21300046: congrat-texts_23
+    21300048: congrat-texts_24
+    21300050: congrat-texts_25
+    21300052: congrat-texts_26
+    21300054: congrat-texts_27
+    21300056: congrat-texts_28
+    21300058: congrat-texts_29
+    21300060: congrat-texts_30
+    21300062: congrat-texts_31
+    21300064: congrat-texts_32
+    21300066: congrat-texts_33
+    21300068: congrat-texts_34
+    21300070: congrat-texts_35
+    21300072: congrat-texts_36
+    21300074: congrat-texts_37
+    21300076: congrat-texts_38
+    21300078: congrat-texts_39
+    21300080: congrat-texts_40
+    21300082: congrat-texts_41
+    21300084: congrat-texts_42
+    21300086: congrat-texts_43
+    21300088: congrat-texts_44
+    21300090: congrat-texts_45
+    21300092: congrat-texts_46
+    21300094: congrat-texts_47
+    21300096: congrat-texts_48
+    21300098: congrat-texts_49
+    21300100: congrat-texts_50
+    21300102: congrat-texts_51
+    21300104: congrat-texts_52
+    21300106: congrat-texts_53
+    21300108: congrat-texts_54
+    21300110: congrat-texts_55
+    21300112: congrat-texts_56
+    21300114: congrat-texts_57
+    21300116: congrat-texts_58
+    21300118: congrat-texts_59
+    21300120: congrat-texts_60
+    21300122: congrat-texts_61
+    21300124: congrat-texts_62
+    21300126: congrat-texts_63
+    21300128: congrat-texts_64
+    21300130: congrat-texts_65
+    21300132: congrat-texts_66
+    21300134: congrat-texts_67
+    21300136: congrat-texts_68
+    21300138: congrat-texts_69
+    21300140: congrat-texts_70
+    21300142: congrat-texts_71
+    21300144: congrat-texts_72
+    21300146: congrat-texts_73
+    21300148: congrat-texts_74
+    21300150: congrat-texts_75
+    21300152: congrat-texts_76
+    21300154: congrat-texts_77
+    21300156: congrat-texts_78
+    21300158: congrat-texts_79
+    21300160: congrat-texts_80
+    21300162: congrat-texts_81
+    21300164: congrat-texts_82
+    21300166: congrat-texts_83
+    21300168: congrat-texts_84
+    21300170: congrat-texts_85
+    21300172: congrat-texts_86
+    21300174: congrat-texts_87
+    21300176: congrat-texts_88
+    21300178: congrat-texts_89
+    21300180: congrat-texts_90
+    21300182: congrat-texts_91
+    21300184: congrat-texts_92
+    21300186: congrat-texts_93
+    21300188: congrat-texts_94
+    21300190: congrat-texts_95
+    21300192: congrat-texts_96
+    21300194: congrat-texts_97
+    21300196: congrat-texts_98
+    21300198: congrat-texts_99
+    21300200: congrat-texts_100
+    21300202: congrat-texts_101
+    21300204: congrat-texts_102
+    21300206: congrat-texts_103
+    21300208: congrat-texts_104
+    21300210: congrat-texts_105
+    21300212: congrat-texts_106
+    21300214: congrat-texts_107
+    21300216: congrat-texts_108
+    21300218: congrat-texts_109
+    21300220: congrat-texts_110
+    21300222: congrat-texts_111
+    21300224: congrat-texts_112
+    21300226: congrat-texts_113
+    21300228: congrat-texts_114
+    21300230: congrat-texts_115
+    21300232: congrat-texts_116
+    21300234: congrat-texts_117
+    21300236: congrat-texts_118
+    21300238: congrat-texts_119
+    21300240: congrat-texts_120
+    21300242: congrat-texts_121
+    21300244: congrat-texts_122
+    21300246: congrat-texts_123
+    21300248: congrat-texts_124
+    21300250: congrat-texts_125
+    21300252: congrat-texts_126
+    21300254: congrat-texts_127
+    21300256: congrat-texts_128
+    21300258: congrat-texts_129
+    21300260: congrat-texts_130
+    21300262: congrat-texts_131
+    21300264: congrat-texts_132
+    21300266: congrat-texts_133
+    21300268: congrat-texts_134
+    21300270: congrat-texts_135
+    21300272: congrat-texts_136
+    21300274: congrat-texts_137
+    21300276: congrat-texts_138
+    21300278: congrat-texts_139
+    21300280: congrat-texts_140
+    21300282: congrat-texts_141
+    21300284: congrat-texts_142
+    21300286: congrat-texts_143
+    21300288: congrat-texts_144
+    21300290: congrat-texts_145
+    21300292: congrat-texts_146
+    21300294: congrat-texts_147
+    21300296: congrat-texts_148
+    21300298: congrat-texts_149
+    21300300: congrat-texts_150
+    21300302: congrat-texts_151
+    21300304: congrat-texts_152
+    21300306: congrat-texts_153
+    21300308: congrat-texts_154
+    21300310: congrat-texts_155
+    21300312: congrat-texts_156
+    21300314: congrat-texts_157
+    21300316: congrat-texts_158
+    21300318: congrat-texts_159
+    21300320: congrat-texts_160
+    21300322: congrat-texts_161
+    21300324: congrat-texts_162
+    21300326: congrat-texts_163
+    21300328: congrat-texts_164
+    21300330: congrat-texts_165
+    21300332: congrat-texts_166
+    21300334: congrat-texts_167
+    21300336: congrat-texts_168
+    21300338: congrat-texts_169
+    21300340: congrat-texts_170
+    21300342: congrat-texts_171
+    21300344: congrat-texts_172
+    21300346: congrat-texts_173
+    21300348: congrat-texts_174
+    21300350: congrat-texts_175
+    21300352: congrat-texts_176
+    21300354: congrat-texts_177
+    21300356: congrat-texts_178
+    21300358: congrat-texts_179
+    21300360: congrat-texts_180
+    21300362: congrat-texts_181
+    21300364: congrat-texts_182
+    21300366: congrat-texts_183
+    21300368: congrat-texts_184
+    21300370: congrat-texts_185
+    21300372: congrat-texts_186
+    21300374: congrat-texts_187
+    21300376: congrat-texts_188
+    21300378: congrat-texts_189
+    21300380: congrat-texts_190
+    21300382: congrat-texts_191
+    21300384: congrat-texts_192
+    21300386: congrat-texts_193
+    21300388: congrat-texts_194
+    21300390: congrat-texts_195
+    21300392: congrat-texts_196
+    21300394: congrat-texts_197
+    21300396: congrat-texts_198
+    21300398: congrat-texts_199
+    21300400: congrat-texts_200
+    21300402: congrat-texts_201
+    21300404: congrat-texts_202
+    21300406: congrat-texts_203
+    21300408: congrat-texts_204
+    21300410: congrat-texts_205
+    21300412: congrat-texts_206
+    21300414: congrat-texts_207
+    21300416: congrat-texts_208
+    21300418: congrat-texts_209
+    21300420: congrat-texts_210
+    21300422: congrat-texts_211
+    21300424: congrat-texts_212
+    21300426: congrat-texts_213
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: basarabilirsin
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 839
+        width: 410
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25c932b11a384a098320cba80042075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basardin
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 880
+        width: 357
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b2377bea37b47f8a08a7da1f1b68a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cok-iyi
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 849
+        width: 177
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e455cd547bb4cc79302917dacf82d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cok-yakin
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 900
+        width: 386
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac35fde0758004db5b6adc4c182a023d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bravo
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 661
+        width: 274
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f25771c2cb324318adc9bc7e4faba45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cok-yaklastin
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 636
+        width: 294
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32912804197c7470a91c6e84903db6f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zafere-kosuyorsun
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 675
+        width: 256
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe5d29ce8ac24a3ba42f00b62e2dd69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zafere-gidiyorsun
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 671
+        width: 242
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e702199f641a44094bfa80ab2c78e907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mukemmel
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 530
+        width: 355
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf97de83f328c408a833e677812070a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mukkemmel
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 418
+        width: 247
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8443d5eff3315403cb6d1eac60de09aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bir-daha-dene
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 516
+        width: 392
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb87850ca947440cc8c808e4e499e357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gayet-iyi
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 487
+        width: 227
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef0f953b03f441be8a4419e15823879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakin-vazgecme
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 363
+        width: 389
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5352fdc7acc41aabe95292afa08e4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ha-gayret
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 285
+        width: 230
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2156c1129394212b6485ad622d6429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tam-isabet
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 270
+        width: 221
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8e1bcc52cbb464ea944092734ff2c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muhtesem
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 268
+        width: 273
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7599c6857c7f408dae7df2155de2442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iyi-gidiyorsun
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 110
+        width: 427
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9407caa0348e343fa86f5c623e3bd576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alim-az-kaldi
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 125
+        width: 284
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c236fe3d69e48108580ca004e003db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hay-aksi
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 83
+        width: 254
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd0f31198bd446c98a8aad1cc85b092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aferin
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 67
+        width: 267
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1510dab1244884abb8483a9f0a294f73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6acbb1f0992df4e319ac1e22186c11e7
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6b4b6980cc73cb54e8e534442bf37b47
+timeCreated: 1517926653
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: alpha kufi regular
+  fontNames:
+  - alpha kufi regular
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

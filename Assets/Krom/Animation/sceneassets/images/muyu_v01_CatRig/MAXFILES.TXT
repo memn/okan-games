@@ -1,0 +1,9 @@
+﻿E:\Projeler\krom\muyu_zeynep_CatRig\t$m$p$$$\muyu_v01_CatRig.max
+E:\Projeler\krom\muyu_zeynep_CatRig\t$m$p$$$\MAXFILES.TXT
+E:\Projeler\krom\muyu\muyu_texture\siyah_goz.jpg
+E:\Projeler\krom\muyu\muyu_texture\muyu_vucut.jpg
+E:\Projeler\krom\muyu\muyu_texture\muyu_tshirt.jpg
+E:\Projeler\krom\muyu\muyu_texture\muyu_pantolon.jpg
+E:\Yedek\Texture\kumas_alpha\tileable_010.tif
+E:\Projeler\krom\muyu\muyu_texture\muyu_ayakkabi.jpg
+E:\Projeler\krom\muyu\muyu_texture\muyu__ayakkabi_bagcik.jpg

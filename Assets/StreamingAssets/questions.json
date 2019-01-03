@@ -1,0 +1,655 @@
+﻿{
+  "Repo": [
+    {
+      "topic": "Coğrafya",
+      "text": "Türkiye kaç coğrafi bölgeye ayrılır?",
+      "choices": [
+        "7",
+        "8",
+        "9",
+        "11"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Coğrafya ",
+      "text": "Türkiye'deki en yüksek dağ hangisidir?",
+      "choices": [
+        "Ağrı Dağı"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Spor",
+      "text": "Cimbom lakaplı futbol takımımız hangisidir?",
+      "choices": [
+        "Galatasaray"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Genel Kültür ",
+      "text": "Başkent Ankara'da bulunan uluslararası hava limanımızın adı nedir?",
+      "choices": [
+        "Esenboğa Hava Limanı"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Tarih",
+      "text": "İlk dünya haritasını kim çizmiştir?",
+      "choices": [
+        "Piri Reis"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Coğrafya",
+      "text": "Toros Dağları Türkiye'nin hangi bölgesindedir?",
+      "choices": [
+        "Akdeniz Bölgesi"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Genel Kültür ",
+      "text": "Türkiye'nin başkenti neresidir?",
+      "choices": [
+        "Ankara"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Türkçe",
+      "text": "Duygu ve düşünce ve isteklerimizi yazarak ilettiğimiz iletişim aracı hangisidir?",
+      "choices": [
+        "Mektup"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Matematik",
+      "text": "Bir hafta kaç gündür?",
+      "choices": [
+        "7"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Türkçe",
+      "text": "\"Çocuk Kalbi\" romanının yazarı kimdir?",
+      "choices": [
+        "Edmondo de Amicis"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "İngilizce ",
+      "text": "\"Elma\" kelimesinin İngilizce'si nedir?",
+      "choices": [
+        "Apple"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Genel Kültür",
+      "text": "Bakü, hangi devletin başkentidir?",
+      "choices": [
+        "Azerbaycan"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Tarih",
+      "text": "Yazıyı hangi uygarlık icat etmiştir?",
+      "choices": [
+        "Sümerler"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Genel Kültür",
+      "text": "Üç büyük dine göre kutsal sayılan şehir hangisidir?",
+      "choices": [
+        "Kudüs"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Tarih",
+      "text": "Bir nedenle tek kulağına küpe takan Osmanlı Padişahı kimdir?",
+      "choices": [
+        "Yavuz Sultan Selim"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Genel Kültür",
+      "text": "Babanın erkek kardeşine ne denir?",
+      "choices": [
+        "Amca"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Türkçe",
+      "text": "\"Kaşağı\" adlı eseriyle çocuk edebiyatında yer edinmiş olan yazar hangisidir?",
+      "choices": [
+        "Ömer Seyfettin"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Coğrafya",
+      "text": "Şubat ayı kaç yılda bir 29 çeker?",
+      "choices": [
+        "4"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Genel Kültür",
+      "text": "Aya ilk defa kim ayak basmıştır?",
+      "choices": [
+        "Neil Armstrong"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Matematik",
+      "text": "Bir üçgenin iç açıları toplamı kaç derecedir?",
+      "choices": [
+        "180"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Coğrafya ",
+      "text": "Türkiye'nin en kalabalık şehri hangisidir?",
+      "choices": [
+        "İstanbul"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Coğrafya ",
+      "text": "Türkiye'nin kuzeyinde yer alan deniz aşağıdakilerden hangisidir?",
+      "choices": [
+        "Karadeniz"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Genel Kültür",
+      "text": "Ispanak yiyerek güçlenen çizgi film kahramanı aşağıdakilerden hangisidir?",
+      "choices": [
+        "Temel Reis"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Türkçe",
+      "text": "\"Yağmur yağdı akşama kadar\" cümlesinin yüklemi aşağıdakilerden hangisidir?",
+      "choices": [
+        "Yağdı"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Matematik ",
+      "text": "Bir kenarı 6 cm olan bir karenin çevresi kaç cm'dir?",
+      "choices": [
+        "24"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Fen Bilgisi",
+      "text": "Görme duyu organımız hangisidir?",
+      "choices": [
+        "Göz"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Türkçe",
+      "text": "\"Masa\" kelimesi kaç hecedir?",
+      "choices": [
+        "2"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Coğrafya",
+      "text": "Öğle vakti gölgemiz hangi yönü gösterir?",
+      "choices": [
+        "Kuzeyi"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Matematik",
+      "text": "26 x 100 = ? işleminin sonucu kaçtır?",
+      "choices": [
+        "2600"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Genel Kültür",
+      "text": "2015 yılında Kimya dalında Nobel Ödülü alan Türk bilim adamı kimdir?",
+      "choices": [
+        "Aziz Sancar"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Matematik",
+      "text": "2 tavuk ve 1 tavşanın toplamda kaç tane ayağı vardır?",
+      "choices": [
+        "8"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Coğrafya ",
+      "text": "Türkiye'de yer alan Van ili hangi bölgemizde bulunmaktadır?",
+      "choices": [
+        "Doğu Anadolu"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Tarih",
+      "text": "Mustafa Kemal Atatürk kaç yılında doğmuştur?",
+      "choices": [
+        "1881"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Genel Kültür",
+      "text": "Sarı ile kırmızı rengi karıştırınca hangi renk ortaya çıkar?",
+      "choices": [
+        "Turuncu"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Genel Kültür ",
+      "text": "Türkiye'deki il sayısı kaçtır?",
+      "choices": [
+        "81"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Genel Kültür",
+      "text": "Erzurum hangi taşıyla ünlüdür?",
+      "choices": [
+        "Oltu"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Matematik",
+      "text": "Bir basamaklı en büyük çift doğal sayı kaçtır?",
+      "choices": [
+        "8"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Genel Kültür",
+      "text": "Öğretmenler günü hangi tarihte kutlanır?",
+      "choices": [
+        "24 Kasım"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Genel Kültür",
+      "text": "Aralık, Ocak ve Şubat ayları hangi mevsimin içine girer?",
+      "choices": [
+        "Kış"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Genel Kültür  ",
+      "text": "Kız kulesi Türkiye'nin hangi ilinde bulunur?",
+      "choices": [
+        "İstanbul"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Genel Kültür",
+      "text": "Eiffel kulesi hangi ülkede bulunur?",
+      "choices": [
+        "Fransa"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Genel Kültür",
+      "text": "Beşiktaş takımının renkleri hangileridir?",
+      "choices": [
+        "siyah-beyaz"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Genel Kültür ",
+      "text": "Türkiye'nin illerinden hangisi mantı ve pastırmasıyla ünlüdür?",
+      "choices": [
+        "Kayseri"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Genel Kültür ",
+      "text": "Türkiye Cumhuriyeti Cumhurbaşkanının ismi aşağıdakilerden hangisidir?",
+      "choices": [
+        "Recep Tayyip Erdoğan"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Sanat",
+      "text": "yüzyıl sanatının en iyi bilinen isimlerinden olan ve kübizm akımının temelini atan İspanyol ressam hangisidir?",
+      "choices": [
+        "Pablo Picasso"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Sanat",
+      "text": "Bir çocuğun gözünden büyüklerin dünyasının anlatıldığı Antoine de Saint-Exupéry tarafından yazılan eser hangisidir?",
+      "choices": [
+        "Küçük Prens"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Matematik",
+      "text": "3 x 8 = ? işleminin sonucu aşağıdakilerden hangisidir?",
+      "choices": [
+        "24"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Genel Kültür ",
+      "text": "Atatürk'ün çok sevdiği köpeğinin adı nedir?",
+      "choices": [
+        "Foks"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Genel Kültür",
+      "text": "En büyük gezegen aşağıdakilerden hangisidir?",
+      "choices": [
+        "Jüpiter"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Türkçe",
+      "text": "'Yemeğini yedin mi' cümlesinin sonuna hangi noktalama işareti konulur?",
+      "choices": [
+        "Soru işareti"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "İngilizce",
+      "text": "'Ev' kelimesinin İngilizcesi aşağıdakilerden hangisidir?",
+      "choices": [
+        "House"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Coğrafya",
+      "text": "Gece ile gündüzün eşit olmasına ne ad verilir?",
+      "choices": [
+        "Ekinoks"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Genel Kültür",
+      "text": "Telefonu aşağıdakilerden hangisi icat etmiştir?",
+      "choices": [
+        "Alexander Graham Bell"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Edebiyat",
+      "text": "'Sefiller' adlı romanın yazarı kimdir?",
+      "choices": [
+        "Victor Hugo"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Genel Kültür",
+      "text": "'Kırmızı Başlıklı Kız' masalında ana karakterin babaannesinin kılığına giren hayvan hangisidir?",
+      "choices": [
+        "Kurt"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Matematik",
+      "text": "Tanesi 2TL olan 3 şekeri satın alan ve 10 TL veren bir çocuk kaç TL para üstü alır?",
+      "choices": [
+        "4"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Türkçe",
+      "text": "'Sıcak' kelimesinin zıttı hangisidir?",
+      "choices": [
+        "Soğuk"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Spor",
+      "text": "Futbolda bir takımda kaleci dahil toplam kaç kişi bulunmalıdır?",
+      "choices": [
+        "11"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Türkçe",
+      "text": "'Dün Emre kalemi getirdi' cümlesinin nesnesi hangi kelimedir?",
+      "choices": [
+        "Kalemi"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Coğrafya",
+      "text": "Gaziantep ili hangi bölgemizde yer almaktadır?",
+      "choices": [
+        "Güneydoğu Anadolu"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Coğrafya",
+      "text": "Dünyanın uydusu aşağıdakilerden hangisidir?",
+      "choices": [
+        "Ay"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Türkçe",
+      "text": "\"Yaşlı\" kelimesinin eş anlamlısı aşağıdakilerden hangisidir?",
+      "choices": [
+        "İhtiyar"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Fen Bilgisi",
+      "text": "Sıvıların ısı alarak gaz haline geçmesine ne denir?",
+      "choices": [
+        "Buharlaşma"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Genel Kültür",
+      "text": "Mevlana Türbesi aşağıdaki şehirlerden hangisindedir?",
+      "choices": [
+        "Konya"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Genel Kültür",
+      "text": "Uluslararası Göçmenler Günü ne zaman kutlanır?",
+      "choices": [
+        "18 aralık"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Genel Kültür",
+      "text": "Dünya Çocuk Hakları Günü ne zaman kutlanır?",
+      "choices": [
+        "20 Kasım"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Sanat",
+      "text": "Sarı ile mavi rengini karıştırınca hangi renk ortaya çıkar?",
+      "choices": [
+        "Yeşil"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Genel Kültür",
+      "text": "Kangal köpekleri, Divriği Ulu Camisi ve halk ozanı Aşık Veysel ile ünlü şehrimiz hangisidir?",
+      "choices": [
+        "Sivas"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Edebiyat",
+      "text": "Yalan söyleyince burnu uzayan masal kahramanı hangisidir?",
+      "choices": [
+        "Pinokyo"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Genel Kültür",
+      "text": "Bacasız sanayi hangi sektör için kullanılır?",
+      "choices": [
+        "Turizm"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Matematik",
+      "text": "(8+7) - 4 = ?",
+      "choices": [
+        "11"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Hukuk",
+      "text": "Bisiklet kelimesi kaç hecelidir?",
+      "choices": [
+        "3"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Genel Kültür",
+      "text": "Sabah saatlerinde selamlaşmak için hangi kelimenin kullanılması daha uygundur?",
+      "choices": [
+        "Günaydın"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Sanat",
+      "text": "Resim yapan sanatçılara ne ad verilir?",
+      "choices": [
+        "Ressam"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "matematik",
+      "text": "1 METRE  KAÇ CMDİR?",
+      "choices": [
+        "100 cm"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Türkçe",
+      "text": "Otobüs sözcüğünde kaç tane ünlü harf vardır?",
+      "choices": [
+        "3"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Türkçe",
+      "text": "Badana kaç hecelidir?",
+      "choices": [
+        "3"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "genel kültür",
+      "text": "Türk bayrağında hangi semboller var?",
+      "choices": [
+        "Ay ve yıldız"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "genel kültür",
+      "text": "Haritada mavi alanlar nereleri göstermektedir?",
+      "choices": [
+        "Denizleri"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "genel kültür",
+      "text": "Dini bayramlarımızın adları nelerdir?",
+      "choices": [
+        "Ramazan ve Kurban Bayramları"
+      ],
+      "answer": 0
+    },
+    {
+      "topic": "Bilim",
+      "text": "Bir gün kaç saattir?",
+      "choices": [
+        "24"
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 16e25fb23f6c9064cadc16c943bcdf4f
+timeCreated: 1520674421
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pek Komik Sans
+  fontNames:
+  - Pek Komik Sans
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
