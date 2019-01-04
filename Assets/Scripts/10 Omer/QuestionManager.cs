@@ -12,6 +12,9 @@ public class QuestionManager : MonoBehaviour
     public Button PrevButton;
     public Button NextButton;
 
+    public Text Score;
+    public Text PageNumber;
+
 
     private int _enumerator;
     private List<Question> _questions;
@@ -33,6 +36,9 @@ public class QuestionManager : MonoBehaviour
     {
         _enumerator = 0;
         _answeredCount = 0;
+        _score = 0;
+        Score.text = 0.ToString();
+        PageNumber.text = "";
         CreateAllQuestions();
         UpdateCurrent();
         _start = Time.time;
@@ -47,6 +53,7 @@ public class QuestionManager : MonoBehaviour
             handler.Manager = this;
             _theHandler = handler;
         }
+
         _theHandler.gameObject.SetActive(true);
     }
 
@@ -54,6 +61,7 @@ public class QuestionManager : MonoBehaviour
     private void UpdateCurrent()
     {
         _theHandler.ShowQuestion(_questions[_enumerator]);
+        PageNumber.text = _enumerator + 1 + " / " + _questions.Count;
         PrevButton.interactable = _enumerator > 0;
         NextButton.interactable = _enumerator < _questions.Count - 1;
     }
@@ -77,6 +85,7 @@ public class QuestionManager : MonoBehaviour
         if (correct)
         {
             _score++;
+            Score.text = (_score * 10).ToString();
             Congrats.ShowSuccess(2);
         }
         else
@@ -96,7 +105,5 @@ public class QuestionManager : MonoBehaviour
         if (success)
         {
         }
-
-        Invoke("Back", 3);
     }
 }
