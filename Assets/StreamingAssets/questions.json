@@ -629,12 +629,12 @@
     },
     {
       "topic": "Türkçe",
-      "text": "'Sıcak' kelimesinin zıttı hangisidir?",
+      "text": "\"Sıcak\" kelimesinin zıttı hangisidir?",
       "choices": [
         "Ilık",
         "Nemli",
         "Soğuk",
-        "Donmuş	"
+        "Donmuş"
       ],
       "answer": 2
     },
