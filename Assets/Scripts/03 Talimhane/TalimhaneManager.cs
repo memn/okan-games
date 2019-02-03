@@ -1,5 +1,6 @@
 ﻿using JetBrains.Annotations;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class TalimhaneManager : MonoBehaviour
@@ -40,17 +41,10 @@ public class TalimhaneManager : MonoBehaviour
         return distance.ToString("F2") + "m";
     }
 
-    private void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.Escape))
-        {
-            Back();
-        }
-    }
-
     [UsedImplicitly]
     public void Back()
     {
+        SceneManager.LoadScene("08 EbuTalib");
     }
 
     public bool HasArrows()

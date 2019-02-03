@@ -132,6 +132,8 @@ public class MazeDirectCharacterController : MonoBehaviour
 
             _animator.SetFloat("MoveSpeed", direction.magnitude);
         }
+        else
+            _animator.SetFloat("MoveSpeed", 0);
 
         Running();
     }

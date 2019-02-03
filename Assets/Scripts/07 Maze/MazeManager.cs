@@ -1,5 +1,6 @@
 ﻿using JetBrains.Annotations;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class MazeManager : MonoBehaviour
@@ -14,17 +15,10 @@ public class MazeManager : MonoBehaviour
 
     public GameObject Congrats;
 
-    private void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.Escape))
-        {
-            Back();
-        }
-    }
-
     [UsedImplicitly]
     public void Back()
     {
+        SceneManager.LoadScene("04 Abdulmuttalib");
     }
 
     internal void CoinCollected()

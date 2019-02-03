@@ -21,14 +21,21 @@ public class QuestionManager : MonoBehaviour
     private int _answeredCount;
     private int _score;
 
+    public Button Continue;
+    public Button Close;
+
     private float _start;
     public CongratsUtil Congrats;
     private QuestionHandler _theHandler;
 
-
     private void Awake()
     {
-        _questions = QuestionRepoHandler.Questions().ToList();
+        StartCoroutine(Util.LoadStreamingAsset(json =>
+        {
+            _questions = QuestionRepoHandler.InitQuestions(json).ToList();
+            Continue.interactable = true;
+            Close.interactable = true;
+        }));
     }
 
     [UsedImplicitly]
@@ -50,6 +57,8 @@ public class QuestionManager : MonoBehaviour
         foreach (Transform child in QuestionParent.transform)
         {
             var handler = child.GetComponent<QuestionHandler>();
+            if (handler == null) continue;
+
             handler.Manager = this;
             _theHandler = handler;
         }

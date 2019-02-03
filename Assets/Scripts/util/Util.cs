@@ -1,17 +1,11 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using JetBrains.Annotations;
+using System.Text;
 using UnityEngine;
 using UnityEngine.Events;
-using UnityEngine.UI;
-using UnityScript.Steps;
 
 public class Util : MonoBehaviour
 {
-   
     public static void Load<T>(GameObject parent, GameObject prefab, IEnumerable<T> leaderboard,
         UnityAction<GameObject, T> action)
     {
@@ -37,12 +31,26 @@ public class Util : MonoBehaviour
         foreach (Transform child in parent)
             Destroy(child.gameObject);
     }
-  
+
     public static void ClearCache(string fileName)
     {
         var saveFilePath = Path.Combine(Application.persistentDataPath, fileName);
         LogUtil.Log("Trying to clear: " + saveFilePath);
         File.Delete(saveFilePath);
         LogUtil.Log("Clean successful.");
+    }
+
+    public static IEnumerator<WWW> LoadStreamingAsset(UnityAction<string> callback)
+    {
+        var filePath = Path.Combine(Application.streamingAssetsPath, "questions.json");
+        if (filePath.Contains("://") || filePath.Contains(":///"))
+        {
+            var www = new WWW(filePath);
+            yield return www;
+            if (callback != null && www.bytes.Length != 0)
+                callback(Encoding.UTF8.GetString(www.bytes, 3, www.bytes.Length - 3));
+        }
+        else if (callback != null)
+            callback(File.ReadAllText(filePath));
     }
 }
