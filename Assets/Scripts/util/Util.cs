@@ -3,6 +3,7 @@ using System.IO;
 using System.Text;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.Networking;
 
 public class Util : MonoBehaviour
 {
@@ -40,16 +41,18 @@ public class Util : MonoBehaviour
         LogUtil.Log("Clean successful.");
     }
 
-    public static IEnumerator<WWW> LoadStreamingAsset(UnityAction<string> callback)
+    public static IEnumerator<UnityWebRequestAsyncOperation> LoadStreamingAsset(UnityAction<string> callback)
     {
         var filePath = Path.Combine(Application.streamingAssetsPath, "questions.json");
         if (filePath.Contains("://") || filePath.Contains(":///"))
-        {
-            var www = new WWW(filePath);
-            yield return www;
-            if (callback != null && www.bytes.Length != 0)
-                callback(Encoding.UTF8.GetString(www.bytes, 3, www.bytes.Length - 3));
-        }
+            using (var webRequest = UnityWebRequest.Get(filePath))
+            {
+                // Request and wait for the desired page.
+                yield return webRequest.SendWebRequest();
+                if (callback != null)
+                    callback(webRequest.downloadHandler.text);
+                
+            }
         else if (callback != null)
             callback(File.ReadAllText(filePath));
     }

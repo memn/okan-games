@@ -3,6 +3,7 @@ using System.Linq;
 using JetBrains.Annotations;
 using UnityEngine;
 using UnityEngine.UI;
+using Debug = System.Diagnostics.Debug;
 
 public class QuestionManager : MonoBehaviour
 {
@@ -30,12 +31,11 @@ public class QuestionManager : MonoBehaviour
 
     private void Awake()
     {
-        StartCoroutine(Util.LoadStreamingAsset(json =>
-        {
-            _questions = QuestionRepoHandler.InitQuestions(json).ToList();
-            Continue.interactable = true;
-            Close.interactable = true;
-        }));
+        var json = Resources.Load("questions") as TextAsset;
+        Debug.Assert(json != null, "json != null");
+        _questions = QuestionRepoHandler.InitQuestions(json.text).ToList();
+        Continue.interactable = true;
+        Close.interactable = true;
     }
 
     [UsedImplicitly]
